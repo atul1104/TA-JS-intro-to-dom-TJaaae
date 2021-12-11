@@ -15,13 +15,13 @@ body {
   background-color: #f4f5f9;
 }
 .box {
-  border: 2px solid #d6bcfa;
-  height: 160px;
+  height: 175px;
   border-radius: 10px;
   width: 30%;
   margin: 18px 0;
   padding: 10px;
   background-color: white;
+  box-shadow: 10px 10px 12px grey;
 }
 h1 {
   text-align: center;
